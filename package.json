@@ -1,0 +1,22 @@
+{
+  "name": "gsap-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:box": "parcel boxes.html",
+    "start:cycle": "parcel cycle.html",
+    "start:properties": "parcel properties.html",
+    "start:demo": "parcel demo.html",
+    "start:scissors": "parcel scissors.html",
+    "start:heartface": "parcel heartface.html",
+    "start:day-night": "parcel day-night.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.6.0",
+    "parcel": "^1.12.4"
+  }
+}
