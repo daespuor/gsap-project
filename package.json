@@ -11,7 +11,8 @@
     "start:demo": "parcel demo.html",
     "start:scissors": "parcel scissors.html",
     "start:heartface": "parcel heartface.html",
-    "start:day-night": "parcel day-night.html"
+    "start:day-night": "parcel day-night.html",
+    "start:song": "parcel song.html"
   },
   "author": "",
   "license": "ISC",

@@ -102,5 +102,5 @@ function hearthfaceSmile() {
       ease: Sine.easeIn,
     },
     'start+=1.1'
-  );
+  ); 
 }
